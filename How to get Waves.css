@@ -4,7 +4,6 @@ h1.Taskbar {
   border: solid 0.001px black;
   border-radius: 5px;
   background-image: url(https://img.freepik.com/premium-vector/abstract-black-wave-thin-curved-lines-pattern-on-white-background-and-texture_78474-821.jpg);
-  border-bottom-style: dashed;
   box-shadow: gray 4px 2px;
 }
 
