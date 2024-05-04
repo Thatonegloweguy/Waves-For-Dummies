@@ -1,0 +1,144 @@
+/*Styles the Custom Made Heading Taskbar*/
+h1.Taskbar {
+  color: black;
+  border: solid 0.001px black;
+  border-radius: 5px;
+  background-image: url(https://img.freepik.com/premium-vector/abstract-black-wave-thin-curved-lines-pattern-on-white-background-and-texture_78474-821.jpg);
+  border-bottom-style: dashed;
+  box-shadow: gray 4px 2px;
+}
+
+/*Style Title of the Website*/
+h2.TitleHeading {
+  font-family: Lucida Sans;
+  font-weight: lighter;
+}
+
+/*Style Authors Name Tag*/
+h4.AuthorT {
+  font-family: Verdana;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+/*Styles Background of Body*/
+body.Background {
+  background-image: url(https://i.pinimg.com/originals/7d/ec/3a/7dec3a3708da693b08461cb95bd5ab18.png);
+  image-rendering: optimizeSpeed;
+}
+
+/*Style Step One Section*/
+div.Basic1 {
+  background-image: url(https://getwallpapers.com/wallpaper/full/4/0/4/34763.jpg);
+  color: white;
+  font-family: Lucida Sans;
+  font-weight: lighter;
+  float: left;
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 10px;
+  box-shadow: rgba(128, 128, 128, 0.6) 5px 5px;
+}
+
+div.Basic2 {
+  background-image: url(Iwow.jpg);
+  color: black;
+  font-family: Lucida Sans;
+  font-weight: lighter;
+  float: left;
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 10px;
+  box-shadow: rgba(128, 128, 128, 0.6) 5px 5px;
+}
+
+div.Basic3 {
+  background-image: url(BristleBush.jpg);
+  color: black;
+  font-family: Lucida Sans;
+  font-weight: lighter;
+  float: left;
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 10px;
+  box-shadow: rgba(128, 128, 128, 0.6) 5px 5px;
+}
+
+div.Basic1Variation {
+  background-image: url(Moist.jpeg);
+  color: black;
+  font-family: Lucida Sans;
+  font-weight: lighter;
+  float: right;
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 10px;
+  box-shadow: rgba(128, 128, 128, 0.6) 5px 5px;
+}
+
+span.First {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(255, 0, 0);
+  -webkit-text-stroke: 0.5px black;
+  text-shadow: grey 2px 2px;
+}
+
+/*Styles any Regular Paragraph*/
+p.Basic {
+  font-family: system-ui;
+  font-weight: normal;
+  padding: 5px;
+  font-size: 17px;
+  line-height: 1.4em;
+}
+
+/*Aligns Paragraph in the Center*/
+p.BasicA {
+  font-family: system-ui;
+  font-weight: normal;
+  padding: 5px;
+  font-size: 17px;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+/*Optimizes Image Loading Speeds*/
+img.Here {
+  image-rendering: optimizeSpeed;
+}
+
+/*Aligns Image in the Center*/
+img.CenterA {
+  text-align: center;
+}
+
+/*Animates a hover animation on the home button*/
+img.Here:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+  transition-duration: 0.5s;
+  transform: scale(1.05);
+  image-rendering: crisp-edges;
+}
+
+/*Styles Home Button*/
+button.HomeButton {
+  color: white;
+  border: solid rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+  border-top-left-radius: 30px;
+}
+
+/*Changes the Button's Opacity*/
+button.Opacity {
+  background-color: rgba(0, 0, 0);
+}
+
+footer.End {
+  border: solid rgba(0, 0, 0, 0.5) 3px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  color: white;
+  opacity: 0.5em;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  font-family: Lucida Sans;
+}
